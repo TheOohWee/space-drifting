@@ -1,7 +1,7 @@
 # Lab 11 - Space Drifting
 Amir Tomashpayev
 
-[live demo video]() (just practicing, not that deep)
+[live demo video](https://www.loom.com/share/56edf6ceb46c4863998f3c55e77169a3) (just practicing, not that deep)
 
 A space-themed game where you fly a ship through waves of asteroids.
 The ship moves forward continuously. User can rotate with A/D, shoot with SPACE,
